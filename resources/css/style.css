@@ -24,3 +24,8 @@ html {
   text-align: right;
   color: gray;
 }
+
+#download {
+  color: Aquamarine;
+  font-size: 16px;
+}
